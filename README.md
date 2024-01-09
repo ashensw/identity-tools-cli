@@ -38,7 +38,7 @@ You need to [setup](https://is.docs.wso2.com/en/latest/get-started/sample-use-ca
 The IAM CTL can be used in two basic modes.
 ## CLI mode
 
-The CLI mode can be used to handle bulk configurations in the target environment. This can be used to propagate resources across multiple environments, deploy new configurations to target environments, and act as a backup of each environment's configurations.
+The CLI mode can be used to handle bulk configurations in the target environment. This can be used to promote resources across multiple environments, deploy new configurations to target environments, and act as a backup of each environment's configurations.
 
 This mode consists of the `exportAll` and `importAll` commands that can be used to export and import all configurations of the supported resource types from or to a target environment. 
 
